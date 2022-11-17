@@ -1,0 +1,8 @@
+
+--Why C++ doesn't allow creating const static member function?
+
+Static Means That this Variable or functoin is Shared among all member data While Const means no changes for member data , So there are Opposite to each other and Wc Can't use them Toghter.
+
+-- Why C++ does't allow using this pointer to access static member data ?
+
+this pointer refer to specific object while static object is shared among all objects
